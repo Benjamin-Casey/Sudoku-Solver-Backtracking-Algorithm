@@ -11,7 +11,7 @@ grid = [
 ]
 
 
-# Split the grid into 9 3x3 grids - return the (x, y) coords of subgrids
+# Split the grid into 3 3x3 grids - return the (x, y) coords of subgrids
 def subgrid_coordinates():
     subgrids = []
     # i, j = x, y of the subgrids
